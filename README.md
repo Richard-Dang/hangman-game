@@ -6,3 +6,6 @@ Hangman is a game in which a random computer related word is generated and the p
 ## Features
 * Mulltiple levels
 * Loading bar
+
+## Screenshots
+![Hangman](http://richarddang.com/images/portfolio/hangman.gif)
